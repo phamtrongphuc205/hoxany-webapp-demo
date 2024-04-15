@@ -1,0 +1,14 @@
+:root {
+    --color-primary: #3076FF;
+    --color-layout01: #071119;
+    --color-layout02: #111A22;
+    --color-layout03: #0C2438;
+    --color-layout04: #1F2830;
+    --color-layout05: #303A42;
+
+
+    --color-white: #fff;
+
+    --font-primary: "Roboto", sans-serif;
+    --font-logo: "Lilita One", sans-serif;
+}
